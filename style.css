@@ -78,5 +78,18 @@ body {
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
+    border-radius: 10px;
     box-shadow: 10px 10px 30px rgb(189, 175, 175);
+}
+
+#border-orangered {
+    border-left: 5px solid orangered;
+}
+
+#border-blue {
+    border-left: 5px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
